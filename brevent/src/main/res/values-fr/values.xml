@@ -3,9 +3,9 @@
 
     <string name="app_name">Brevent</string>
 
-    <string name="fragment_guide_welcome">Welcome</string>
-    <string name="fragment_guide_welcome_message">How do you quit apps?\nPressing Back always means that you finished your work and wanted to quit.\nPressing Home would start the launcher and kick this app into background.</string>
-    <string name="fragment_guide_welcome_message2">We love this design of Android, but some apps do not. They keep them in backgroud and drain your battery, some even push useless notifications to draw your attention.\n\nAnd Brevent is going to protect your phone from these apps.\nSwiping away from Recent Screen or pressing Back, they would be force-stopped.\nPressing Home and they would be kept in the background to finish their tasks, once the time period you set is out they would be force-stopped.\n\nFor background apps, Brevent shows the idle time dynamically.</string>
+    <string name="fragment_guide_welcome">Bienvenue</string>
+    <string name="fragment_guide_welcome_message">Comment quittez-vous les applis ?\nQuand vous avez fini votre travail et voulez la quitter, vous appuyez sur le bouton Retour.\nSi vous appuyez sur le bouton Accueil, l'appli se fait rendue à l'arrière-plan et l'appli Launcher démarre.</string>
+    <string name="fragment_guide_welcome_message2">Ce style d'Android nous plaît, mais il y a des applis que le détestent. Elle se cachent à l'arrière-plan et consomment votre batterie, dont les applis vous ennuient en vous envoyant les Notification push inutiles.\n\nMaintenant, voici Brevent qui protége votre appareil pour vous de ces applis.\nQuand une appli est glissée hors de l'écran Applis recentes ou vous voulez la terminez en annuyant le Retour, elle est forcée à se terminer.\nAppuyer sur l'Accueil ne la permet d'aller à l'arrière-plan pour finir son travail qu'avant le time-out defini par vous n'arrive.\n\nBrevent affiche le temps inactif pour chaque applis dans l'arrière-plan.</string>
 
     <string name="fragment_guide_permission">Permissions</string>
     <string name="fragment_guide_permission_message">What do you need to do? \nJust a simple command with your PC.</string>
